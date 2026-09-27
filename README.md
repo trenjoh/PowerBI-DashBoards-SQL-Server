@@ -38,24 +38,6 @@ PowerBI-DashBoards-SQL-Server/
 4. Load the dashboard files
 5. Configure data refresh settings
 
-## Dashboards
-
-*Add information about specific dashboards in this section*
-
-- **Dashboard 1**: Description
-- **Dashboard 2**: Description
-- **Dashboard 3**: Description
-
-## Database Setup
-
-*Include SQL Server connection details and schema information here*
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit issues and pull requests.
-
-## License
-
 *Add appropriate license information*
 
 ## Contact
